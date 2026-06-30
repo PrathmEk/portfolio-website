@@ -23,7 +23,7 @@ export const projects: Project[] = [
     ],
     stack: ["React.js", "Spring Boot", "MySQL", "Spring Security", "JWT", "Hibernate/JPA"],
     liveUrl: "https://hr-frontend-one-sepia.vercel.app/login",
-    githubUrl: "https://github.com/PrathmEk/HR-Frontend",
+    githubUrl: "https://github.com/PrathmEk/HR-Frontend-main",
   },
   {
     id: "02",
@@ -38,7 +38,7 @@ export const projects: Project[] = [
     ],
     stack: ["React.js", "Spring Boot", "MongoDB", "REST APIs", "Java"],
     liveUrl: "https://swift-cart-frontend-gold.vercel.app",
-    githubUrl: "https://github.com/PrathmEk/SwiftCart-Frontend",
+    githubUrl: "https://github.com/PrathmEk/SwiftCart-Frontend-main",
   },
   {
     id: "03",
@@ -53,7 +53,7 @@ export const projects: Project[] = [
     ],
     stack: ["React.js", "Spring Boot", "PostgreSQL", "JWT", "REST APIs", "Render"],
     liveUrl: "https://money-manager-one-chi.vercel.app/login",
-    githubUrl: "https://github.com/PrathmEk/Money-Manager-Frontend",
+    githubUrl: "https://github.com/PrathmEk/Money-Manager-Frontend-main",
   },
 
 
